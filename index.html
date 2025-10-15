@@ -86,6 +86,7 @@
             <p><strong>Movement:</strong> ${watch.movement}</p>
             <p><strong>Case:</strong> ${watch.case}</p>
             <p><strong>Water Resistance:</strong> ${watch.waterResistance}</p>
+            <p><strong>Reference:</strong> ${watch.reference}</p>
           </div>
         `;
         container.innerHTML = html;
@@ -101,7 +102,7 @@
   <style>
     body {
       font-family: system-ui, sans-serif;
-      background: #f4f4f4;
+      background: #b2b2b2;
       color: #333;
       text-align: center;
       padding: 2rem;
@@ -118,7 +119,6 @@
       width: 50%;         /* responsive width */
       max-width: 300px;  /* caps at 300px on large screens */
       min-width: 200px;  /* ensures button isn’t too small */
-      height: fit-content;
     }
     button:hover {
       background: #555;
