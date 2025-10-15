@@ -23,7 +23,7 @@
           {
             brand: 'Omega',
             model: 'Speedmaster Professional',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Omega_Speedmaster_Professional_Moonwatch.jpg',
+            image: 'https://www.ap-watches.com/ap-watches/fotos/omega-speedmaster-professional-moonwatch-42-mm-1603795744.png',
             movement: 'Manual Wind Calibre 3861',
             case: '42mm Stainless Steel',
             waterResistance: '50m',
@@ -31,7 +31,7 @@
           {
             brand: 'Rolex',
             model: 'Explorer II',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Rolex_Explorer_II_%28white_dial%29.jpg',
+            image: 'https://globalwatchco.com/rolex/wp-content/uploads/2024/04/m226570-0001_drp-upright-bba-with-shadow.webp',
             movement: 'Automatic Calibre 3285',
             case: '42mm Oystersteel',
             waterResistance: '100m',
@@ -39,7 +39,7 @@
           {
             brand: 'Seiko',
             model: 'Presage Cocktail Time',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/0/0c/Seiko_Presage_Cocktail_Time_SARX055.jpg',
+            image: 'https://www.chisholmhunter.co.uk/media/catalog/product/cache/1c13339936d9cec19ec06c7ff2acbcef/2/-/2-039-03-0031_1.jpg',
             movement: 'Automatic Caliber 4R35',
             case: '40.5mm Stainless Steel',
             waterResistance: '50m',
@@ -47,7 +47,7 @@
           {
             brand: 'Tudor',
             model: 'Black Bay Fifty-Eight',
-            image: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Tudor_Black_Bay_Fifty-Eight.jpg',
+            image: 'https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch-zoom/c_limit,w_1920/v1/catalogue/2025/upright-cb-with-drop-shadow/tudor-m79030n-0002',
             movement: 'MT5402 COSC Certified Automatic',
             case: '39mm Stainless Steel',
             waterResistance: '200m',
@@ -69,9 +69,9 @@
 
         const html = `
           <div style="text-align:center;">
-            <img src="${watch.image}" alt="${watch.brand} ${watch.model}" 
-                 style="max-width:960px; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"
-                 onclick="openLightbox('${watch.image}')">
+            <img src="${watch.image}" alt="${watch.brand} ${watch.model}"
+              style="width:100%; max-width:min(60vw, 960px); height:auto; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"
+              onclick="openLightbox('${watch.image}')">
             <h2>${watch.brand} - ${watch.model}</h2>
             <p><strong>Movement:</strong> ${watch.movement}</p>
             <p><strong>Case:</strong> ${watch.case}</p>
