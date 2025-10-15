@@ -95,6 +95,8 @@
         console.error(err);
       }
     }
+    // ✅ Automatically load a random watch when page finishes loading
+    window.addEventListener('DOMContentLoaded', getRandomWatch);
   </script>
   <style>
     body {
