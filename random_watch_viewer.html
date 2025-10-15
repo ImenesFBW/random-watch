@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random Watch Explorer</title>
+  <script>
+    async function getRandomWatch() {
+      const status = document.getElementById('status');
+      const container = document.getElementById('watch-container');
+      container.innerHTML = '';
+      status.textContent = 'Fetching a random watch...';
+
+      try {
+        // Sample placeholder API (no public random watch API available)
+        // This demo uses a static JSON of example watches.
+        const watches = [
+          {
+            brand: 'Omega',
+            model: 'Speedmaster Professional',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/7/70/Omega_Speedmaster_Professional_Moonwatch.jpg',
+            movement: 'Manual Wind Calibre 3861',
+            case: '42mm Stainless Steel',
+            waterResistance: '50m',
+          },
+          {
+            brand: 'Rolex',
+            model: 'Explorer II',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Rolex_Explorer_II_%28white_dial%29.jpg',
+            movement: 'Automatic Calibre 3285',
+            case: '42mm Oystersteel',
+            waterResistance: '100m',
+          },
+          {
+            brand: 'Seiko',
+            model: 'Presage Cocktail Time',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/0/0c/Seiko_Presage_Cocktail_Time_SARX055.jpg',
+            movement: 'Automatic Caliber 4R35',
+            case: '40.5mm Stainless Steel',
+            waterResistance: '50m',
+          },
+          {
+            brand: 'Tudor',
+            model: 'Black Bay Fifty-Eight',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/a/a8/Tudor_Black_Bay_Fifty-Eight.jpg',
+            movement: 'MT5402 COSC Certified Automatic',
+            case: '39mm Stainless Steel',
+            waterResistance: '200m',
+          },
+          {
+            brand: 'Hamilton',
+            model: 'Khaki Field Mechanical',
+            image: 'https://https://upload.wikimedia.org/wikipedia/commons/4/4a/Hamilton_Khaki_Field_Mechanical_39.jpg',
+            movement: 'Hand-Wound Caliber H-50',
+            case: '38mm Stainless Steel',
+            waterResistance: '50m',
+          }
+        ];
+
+        const randomIndex = Math.floor(Math.random() * watches.length);
+        const watch = watches[randomIndex];
+
+        status.textContent = '';
+
+        const html = `
+          <div style="text-align:center;">
+            <img src="${watch.image}" alt="${watch.brand} ${watch.model}" style="max-width:250px; border-radius:10px; margin-bottom:10px;">
+            <h2>${watch.brand} - ${watch.model}</h2>
+            <p><strong>Movement:</strong> ${watch.movement}</p>
+            <p><strong>Case:</strong> ${watch.case}</p>
+            <p><strong>Water Resistance:</strong> ${watch.waterResistance}</p>
+          </div>
+        `;
+        container.innerHTML = html;
+
+      } catch (err) {
+        status.textContent = 'Error fetching watch data.';
+        console.error(err);
+      }
+    }
+  </script>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      text-align: center;
+      padding: 2rem;
+    }
+    button {
+      background: #333;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+    }
+    button:hover {
+      background: #555;
+    }
+    #watch-container {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      display: inline-block;
+      min-width: 300px;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎲 Random Watch Explorer</h1>
+  <p>Click below to discover a random watch with its specs and image.</p>
+  <button onclick="getRandomWatch()">Show Random Watch</button>
+  <p id="status"></p>
+  <div id="watch-container"></div>
+</body>
+</html>
