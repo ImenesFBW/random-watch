@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Omega",
+    "model": "Speedmaster Professional",
+    "image": "https://www.ap-watches.com/ap-watches/fotos/omega-speedmaster-professional-moonwatch-42-mm-1603795744.png",
+    "movement": "Manual Wind Calibre 3861",
+    "case": "42mm Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "brand": "Rolex",
+    "model": "Explorer II",
+    "image": "https://globalwatchco.com/rolex/wp-content/uploads/2024/04/m226570-0001_drp-upright-bba-with-shadow.webp",
+    "movement": "Automatic Calibre 3285",
+    "case": "42mm Oystersteel",
+    "waterResistance": "100m"
+  },
+  {
+    "brand": "Seiko",
+    "model": "Presage Cocktail Time",
+    "image": "https://www.chisholmhunter.co.uk/media/catalog/product/cache/1c13339936d9cec19ec06c7ff2acbcef/2/-/2-039-03-0031_1.jpg",
+    "movement": "Automatic Caliber 4R35",
+    "case": "40.5mm Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "brand": "Tudor",
+    "model": "Black Bay Fifty-Eight",
+    "image": "https://media.tudorwatch.com/image/upload/q_auto/f_auto/t_tdr-cover-watch-zoom/c_limit,w_1920/v1/catalogue/2025/upright-cb-with-drop-shadow/tudor-m79030n-0002",
+    "movement": "MT5402 COSC Certified Automatic",
+    "case": "39mm Stainless Steel",
+    "waterResistance": "200m"
+  },
+  {
+    "brand": "Hamilton",
+    "model": "Khaki Field Mechanical",
+    "image": "https://www.hamiltonwatch.com/media/catalog/product/cache/d6b41303724cda1759dfa06b290914fe/h/6/h69509910_1_1.png",
+    "movement": "Hand-Wound Caliber H-50",
+    "case": "38mm Stainless Steel",
+    "waterResistance": "50m"
+  },
+  {
+    "brand": "UNDONE",
+    "model": "Urban Vintage Pistachio Crisp",
+    "image": "https://cdn.thewatchpages.com/app/uploads/2024/11/20172251/undone-urban-vintage-pistachio-crisp-urb-vnt-grn.jpeg",
+    "movement": "Japanese TMI VK61 Mechanical-Quartz Hybrid",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "30m"
+  }
+]
