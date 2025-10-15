@@ -71,7 +71,7 @@
           <div style="text-align:center;">
             <img src="${watch.image}" 
               alt="${watch.brand} ${watch.model}" 
-              style="width:100%; max-width:min(60vw, 400px); max-height:70vh; height:auto; object-fit:contain; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"
+              style="width:100%; max-width:min(60vw, 960px); max-height:70vh; height:auto; object-fit:contain; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"
               onclick="openLightbox('${watch.image}')">
             <h2>${watch.brand} - ${watch.model}</h2>
             <p><strong>Movement:</strong> ${watch.movement}</p>
@@ -132,10 +132,13 @@
     #lightbox img {
       max-width: 90%;
       max-height: 90%;
+      object-fit: contain;
+      background: white;          /* ✅ solid background behind transparent areas */
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0,0,0,0.5);
       cursor: zoom-out;
-    }
+      padding: 10px;              /* optional: adds space between image and background */
+}
   </style>
 </head>
 <body>
