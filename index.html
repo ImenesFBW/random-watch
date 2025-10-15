@@ -5,6 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Random Watch Explorer</title>
   <script>
+    function openLightbox(src) {
+      const lightbox = document.getElementById('lightbox');
+      const img = document.getElementById('lightbox-img');
+      img.src = src;
+      lightbox.style.display = 'flex';
+    }
+
     async function getRandomWatch() {
       const status = document.getElementById('status');
       const container = document.getElementById('watch-container');
@@ -12,8 +19,6 @@
       status.textContent = 'Fetching a random watch...';
 
       try {
-        // Sample placeholder API (no public random watch API available)
-        // This demo uses a static JSON of example watches.
         const watches = [
           {
             brand: 'Omega',
@@ -64,7 +69,9 @@
 
         const html = `
           <div style="text-align:center;">
-            <img src="${watch.image}" alt="${watch.brand} ${watch.model}"style="max-width:960px; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"onclick="openLightbox('${watch.image}')">
+            <img src="${watch.image}" alt="${watch.brand} ${watch.model}" 
+                 style="max-width:960px; border-radius:10px; margin-bottom:10px; cursor:zoom-in;"
+                 onclick="openLightbox('${watch.image}')">
             <h2>${watch.brand} - ${watch.model}</h2>
             <p><strong>Movement:</strong> ${watch.movement}</p>
             <p><strong>Case:</strong> ${watch.case}</p>
@@ -108,7 +115,7 @@
       display: inline-block;
       min-width: 300px;
     }
-    /* Overlay background */
+    /* Lightbox overlay */
     #lightbox {
       display: none;
       position: fixed;
@@ -136,8 +143,9 @@
   <button onclick="getRandomWatch()">Show Random Watch</button>
   <p id="status"></p>
   <div id="watch-container"></div>
+
   <div id="lightbox" onclick="this.style.display='none'">
-  <img id="lightbox-img" src="" alt="Zoomed Watch">
-</div>
+    <img id="lightbox-img" src="" alt="Zoomed Watch">
+  </div>
 </body>
 </html>
