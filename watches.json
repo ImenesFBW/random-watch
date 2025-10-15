@@ -52,5 +52,32 @@
     "case": "40mm Stainless Steel",
     "waterResistance": "30m",
     "reference": "MISSING"
+  },
+  {
+    "brand": "Brew",
+    "model": "Retro Dial",
+    "image": "https://www.brew-watches.com/cdn/shop/files/BREWMETRICFRONTRETRODIAL-SD_2048x2048.jpg",
+    "movement": " VK68 Mechanical-Quartz Hybrid Chronograph",
+    "case": "30mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "brew-metric-retro-black"
+  },
+  {
+    "brand": "ADDIESDIVE",
+    "model": "AD2030",
+    "image": "https://www.addiesdivewatches.com/cdn/shop/files/1_12f69e0e-2085-459a-9ed7-39416aaf95fa.jpg",
+    "movement": "Japanese VH31/VH60 sweep seconds quartz movement",
+    "case": "36mm 316L Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "AD2030 Desert Yellow with logo"
+  },
+  {
+    "brand": "Seiko",
+    "model": "Seiko 5 SPORTS",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/s/r/srpe79k1_hudaura.webp",
+    "movement": "Automatic with manual winding",
+    "case": "42.5mm",
+    "waterResistance": "100m",
+    "reference": "SRPE79K1 "
   }
 ]
