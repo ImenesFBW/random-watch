@@ -113,29 +113,38 @@
       align-items: center;
       padding: 0;
     }
+    h1 {
+      font-size: 1.5rem;
+      margin: 0.5rem 0 0.25rem 0;
+    }
+    p {
+      font-size: 0.95rem;
+      margin: 0.25rem 0 0.5rem 0;
+    }
     button {
       background: #333;
       color: white;
       border: none;
-      padding: 10px 20px;
-      border-radius: 8px;
+      padding: 6px 12px;
+      border-radius: 6px;
       cursor: pointer;
-      font-size: 1rem;
-      margin-bottom: 1rem;
-      width: 50%;         /* responsive width */
-      max-width: 300px;  /* caps at 300px on large screens */
-      min-width: 200px;  /* ensures button isn’t too small */
+      font-size: 0.95rem;
+      margin-bottom: 0.5rem;
+      width: 40%;
+      max-width: 180px;
+      min-width: 120px;
     }
     button:hover {
       background: #555;
     }
     #watch-container {
       background: white;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 10px;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
       display: inline-block;
-      min-width: 300px;
+      min-width: 220px;
+      max-width: 90vw;
     }
     /* Lightbox overlay */
     #lightbox {
@@ -154,12 +163,12 @@
       max-width: 90%;
       max-height: 90%;
       object-fit: contain;
-      background: white;          /* ✅ solid background behind transparent areas */
-      border-radius: 10px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.5);
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.4);
       cursor: zoom-out;
-      padding: 10px;              /* optional: adds space between image and background */
-}
+      padding: 6px;
+    }
   </style>
 </head>
 <body>
