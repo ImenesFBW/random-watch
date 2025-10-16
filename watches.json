@@ -82,7 +82,7 @@
   },
   {
     "brand": "Mido",
-    "model": "Baroncelli Smiling Moon Gent",
+    "model": "Baroncelli Smiling Moon",
     "image": "https://i00.eu/img/606/1024x1024/9iq60drp/169557.webp",
     "movement": "M027.407.11.010.01",
     "case": "39mm 316L Stainless Steel",
@@ -124,5 +124,50 @@
     "case": "40mm 316L Stainless Steel",
     "waterResistance": "100m",
     "reference": "T137.407.11.351.01"
-  } 
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Chronograph Quartz Orange Hand Nato Strap",
+    "image": "https://www.seikoboutique.eu/de/60332-superZoom/mens-sport-watch-chronograph-quartz-hardlex-glass-orange-hand-nato-strap.jpg",
+    "movement": "Quartz 8T63",
+    "case": "41mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SSB403P1"
+  } ,
+  {
+    "brand": "Timex",
+    "model": "Expedition",
+    "image": "https://timex.com/cdn/shop/files/T45181_42c01eba-abad-4276-8aa6-ff41d0ab559f.png",
+    "movement": "Quartz",
+    "case": "39mm Resin",
+    "waterResistance": "100m",
+    "reference": "T45181 "
+  } ,
+  {
+    "brand": "Casio",
+    "model": "AE-1000W-1AVEF",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/europe/en-gb/timepiece/product/watch/A/AE/AE1/AE-1000W-1AV/assets/AE-1000W-1AV_Seq1.jpg",
+    "movement": "Quartz",
+    "case": "43mm Resin",
+    "waterResistance": "100m",
+    "reference": "AE-1000W-1AVEF"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "G-SHOCK ORIGINAL",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/intl/en/timepiece/product/watch/G/GA/gab/ga-b001cbr-2a/assets/GA-B001CBR-2A.png",
+    "movement": "Quartz",
+    "case": "42,5mm Resin/Carbon",
+    "waterResistance": "200m",
+    "reference": "GA-B001CBR-2AER"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "G-SHOCK G-CLASSIC",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/europe/en-gb/timepiece/product/watch/G/GA/GA1/GA-140-6A/assets/GA-140-6A_Seq1.png",
+    "movement": "Quartz",
+    "case": "51,2mm Resin",
+    "waterResistance": "200m",
+    "reference": "GA-140-6AER"
+  }
 ]
