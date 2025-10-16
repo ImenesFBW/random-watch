@@ -79,5 +79,50 @@
     "case": "42.5mm",
     "waterResistance": "100m",
     "reference": "SRPE79K1 "
-  }
+  },
+  {
+    "brand": "Mido",
+    "model": "Baroncelli Smiling Moon Gent",
+    "image": "https://i00.eu/img/606/1024x1024/9iq60drp/169557.webp",
+    "movement": "M027.407.11.010.01",
+    "case": "39mm 316L Stainless Steel",
+    "waterResistance": "30m",
+    "reference": "M027.407.11.010.01"
+  },
+  {
+    "brand": "Tissot",
+    "model": "PRX Powermatic Automatic Black Chameleon Dial",
+    "image": "https://www.tissotwatches.com/dw/image/v2/BKKD_PRD/on/demandware.static/-/Sites-Tissot-Catalogue/default/dwa50b0112/product-pictures/dfde7d22-afc8-42e1-b263-6087f1cd022d_T137-407-11-051-01_Shadow.png",
+    "movement": "Powermatic 80.611",
+    "case": "40mm 316L Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T1374071105101"
+  },
+    {
+    "brand": "Citizen",
+    "model": "Promaster Mechanical Diver 200m",
+    "image": "https://m.media-amazon.com/images/I/81kB9lVpkIL._AC_SX679_.jpg",
+    "movement": "Citizen Caliber Eco-Drive E168",
+    "case": "44mm Stainless Steel",
+    "waterResistance": "200m",
+    "reference": "BN0200-56E"
+    },
+    {
+    "brand": "Casio",
+    "model": "G-Shock DW-5600E-1VER",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/d/w/dw-5600e-1v_hudaura.webp",
+    "movement": "Quartz",
+    "case": "45mm Resin",
+    "waterResistance": "200m",
+    "reference": "DW-5600E-1VER"
+    },
+    {
+    "brand": "Tissot",
+    "model": "PRX Powermatic 80 Automatic Blue Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-prx-powermatic-80-automatic-blue-dial-mens-watch-t1374071135101-t1374071135101.jpg",
+    "movement": "Powermatic 80.611",
+    "case": "40mm 316L Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T137.407.11.351.01"
+  } 
 ]
