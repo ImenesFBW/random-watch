@@ -169,5 +169,50 @@
     "case": "51,2mm Resin",
     "waterResistance": "200m",
     "reference": "GA-140-6AER"
+  },
+  {
+    "brand": "Timex",
+    "model": "Marlin",
+    "image": "https://m.media-amazon.com/images/I/71Nk-wyeJgL._AC_SX679_.jpg",
+    "movement": "Quartz",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "TW2W51000"
+  } ,
+  {
+    "brand": "Swatch",
+    "model": "Clearly Gent",
+    "image": "https://static.swatch.com/images/product/SO28K100-S06/sa000/SO28K100-S06_sa000_ec001m.png",
+    "movement": "Quartz",
+    "case": "34mm Plastic",
+    "waterResistance": "30m",
+    "reference": "SO28K100-S06"
+  },
+  {
+    "brand": "Timex",
+    "model": "Marlin Chronograph",
+    "image": "https://www.irisimo.si/files/product/71926/TIMEX-Marlin-Chronograph-Tachymeter-40mm-Leather-Strap-Watch-TW2W60400.gif",
+    "movement": "Quartz",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "TW2W60400"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "5 Sports Naruto&Boruto Boruto Uzumaki Limited Edition",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/s/e/seiko_srpf65k1_urejenohudaura.webp",
+    "movement": "Automatic Caliber 4R36",
+    "case": "42.5mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SRPF65K1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "5 Sports Naruto&Boruto Boruto Gaara Limited Edition",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/3c1a6ba7bf54a415044847fb213093e7/s/e/seiko_srpf71k1_1_urejeno.webp",
+    "movement": "Automatic Caliber 4R36",
+    "case": "42.5mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SRPF71K1"
   }
 ]
