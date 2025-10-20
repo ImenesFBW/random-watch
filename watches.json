@@ -214,5 +214,77 @@
     "case": "42.5mm Stainless Steel",
     "waterResistance": "100m",
     "reference": "SRPF71K1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Seiko 5 SPORTS",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/s/e/seiko_srpd85k1_hudaura.webp",
+    "movement": "Automatic Caliber 4R36",
+    "case": "42.5mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SRPD85K1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Seiko 5 SNXS77K",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/s/n/snxs77k_hudaura_1.webp",
+    "movement": "Automatic",
+    "case": "37mm Stainless Steel",
+    "waterResistance": "30m",
+    "reference": "SNXS77K"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "G-SHOCK GA-2100",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/c/a/casio_ga-2100-1a2er_hudaura.com.webp",
+    "movement": "Quartz",
+    "case": "48.5 x 45.4 mm Resin/Carbon",
+    "waterResistance": "200m",
+    "reference": "GA-2100-1A2ER"
+  } ,
+  {
+    "brand": "Citizen",
+    "model": "BI5000-52",
+    "image": "https://citizenwatch.eu/media/thumbs/01/a1/2c05edf53ae4f523107dcd2b916784db6ad1/1400x_crop=center/managed/73/c5/73c5c8bc7aa08f6bd8c042a0c997be20/BI5000-52L.png.thumb.png",
+    "movement": "Analog Quartz",
+    "case": "39mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "BI5000-52L"
+  } ,
+  {
+    "brand": "Timex",
+    "model": "Weekender",
+    "image": "https://m.media-amazon.com/images/I/61cjJsXfKhL._AC_SX679_.jpg",
+    "movement": "Quartz",
+    "case": "38mm Brass",
+    "waterResistance": "30m",
+    "reference": "T2N654PF"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Panda Chronograph Automatic",
+    "image": "https://images.squarespace-cdn.com/content/v1/59249a1ec6fc08d043656eb4/1715121525201-HPICK3UJUNE2OFDZAPVG/2765-4.jpg",
+    "movement": "Automatic Calibre 6138",
+    "case": "40.5mm Stainless Steel",
+    "waterResistance": "Not water resistant",
+    "reference": "6138-8020"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Seiko Prospex",
+    "image": "https://stentime.si/storage/13551/SSC813P1.png",
+    "movement": "Solar Chronograph V175",
+    "case": "39mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SSC813P1"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "F91W-1",
+    "image": "https://www.casio.com/content/dam/casio/product-info/locales/in/en/timepiece/product/watch/F/F9/F91/F-91W-1/assets/F-91W-1_Seq1.png",
+    "movement": "Quartz 8T63",
+    "case": "33.5mm Resin",
+    "waterResistance": "30m",
+    "reference": "F91W-1"
   }
 ]
