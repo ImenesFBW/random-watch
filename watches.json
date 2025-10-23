@@ -2,7 +2,7 @@
   {
     "brand": "Omega",
     "model": "Speedmaster Professional",
-    "image": "https://www.ap-watches.com/ap-watches/fotos/omega-speedmaster-professional-moonwatch-42-mm-1603795744.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Vintage_Omega_Speedmaster_%22Pre-moon%22.jpg",
     "movement": "Manual Wind Calibre 3861",
     "case": "42mm Stainless Steel",
     "waterResistance": "50m",
@@ -286,5 +286,86 @@
     "case": "33.5mm Resin",
     "waterResistance": "30m",
     "reference": "F91W-1"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "G-SHOCK Original Crazy Colors",
+    "image": "https://www.irisimo.si/files/product/61691/G-SHOCK-ORIGINAL-DW-6900RCS-1ER-CRAZY-COLOURS.gif",
+    "movement": "Quartz",
+    "case": "50mm Resin",
+    "waterResistance": "200m",
+    "reference": "DW-6900RCS-1ER"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "G-SHOCK Original Hidden Glow Series",
+    "image": "https://www.irisimo.si/files/product/77289/g-shock-original-dw-6900hds-7er-hidden-glow-series.gif",
+    "movement": "Quartz",
+    "case": "50mm Resin",
+    "waterResistance": "200m",
+    "reference": "DW-6900HDS-7ER"
+  } ,
+  {
+    "brand": "Casio",
+    "model": "Casio G-Shock Men's Tough Solar",
+    "image": "https://m.media-amazon.com/images/I/61V+iFk8xfL._AC_SY550_.jpg",
+    "movement": "Quartz",
+    "case": "53.2mm Resin",
+    "waterResistance": "200m",
+    "reference": "GW6900-1"
+  } ,
+  {
+    "brand": "AVI-8",
+    "model": "HAWKER HUNTER Retrograde Chronograph",
+    "image": "https://avi-8.com/cdn/shop/products/AV-4052-02-Q_0ca8b9c6-1bcb-485a-aa44-a312ec18cfcc_1800x1800.png",
+    "movement": "Japanese Quartz Chronograph",
+    "case": "45mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "AV-4052-02"
+  } ,
+  {
+    "brand": "AVI-8",
+    "model": "HAWKER HURRICANE Classic Chronograph",
+    "image": "https://avi-8.com/cdn/shop/files/AV-4011-0B-Q_1800x1800.png",
+    "movement": "Japanese Quartz Chronograph",
+    "case": "43.5mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "AV-4011-0B"
+  } ,
+  {
+    "brand": "AVI-8",
+    "model": "SPITFIRE Lock Chronograph MIDNIGHT OAK",
+    "image": "https://avi-8.com/cdn/shop/products/AV-4089-01-QS01_1800x1800.png",
+    "movement": "Japan Meca-Quartz Chronograph with Date",
+    "case": "42mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "AV-4089-01-QS01"
+  } ,
+  {
+    "brand": "Tissot",
+    "model": "PRX Chronograph Automatic White Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-prx-chronograph-automatic-white-dial-mens-watch-t1374271101100.jpg",
+    "movement": "Automatic Caliber 13.611",
+    "case": "42mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T1374271101100"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Alpinist Green Dial",
+    "image": "https://stentime.si/storage/17806/SPB121J1.png",
+    "movement": "Auto Seiko 6R35",
+    "case": "39.5mm Stainless Steel",
+    "waterResistance": "200m",
+    "reference": "SPB121J1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "PRESAGE Automatic Sharp Edged",
+    "image": "https://www.irisimo.com/files/product/44674/SEIKO-PRESAGE-AUTOMATIC-SPB227J1-SHARP-EDGED.jpg",
+    "movement": "Auto Seiko 6R35",
+    "case": "39.3mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SPB227J1"
   }
 ]
