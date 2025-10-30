@@ -361,11 +361,121 @@
   } ,
   {
     "brand": "Seiko",
-    "model": "PRESAGE Automatic Sharp Edged",
+    "model": "PRESAGE Automatic Sharp Edged Red Dial",
     "image": "https://www.irisimo.com/files/product/44674/SEIKO-PRESAGE-AUTOMATIC-SPB227J1-SHARP-EDGED.jpg",
     "movement": "Auto Seiko 6R35",
     "case": "39.3mm Stainless Steel",
     "waterResistance": "100m",
     "reference": "SPB227J1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "PRESAGE Automatic Sharp Edged White Dial",
+    "image": "https://stentime.si/storage/6658/SPB165J1.jpg",
+    "movement": "Auto Seiko 6R35",
+    "case": "39.3mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SPB165J1"
+  } ,
+  {
+    "brand": "Seiko",
+    "model": "Presage Craftmanship Watch With Arita Porcelain Dial",
+    "image": "https://www.seikoboutique.eu/fr/43672-superZoom/mens-automatic-watch-seiko-presage-porcelain-arita.jpg",
+    "movement": "6R31",
+    "case": "40.5mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SPB293J1"
+  }
+  ,
+  {
+    "brand": "Erebus",
+    "model": "ASCENT 41 Red Helix",
+    "image": "https://erebuswatches.com/cdn/shop/files/erebus-ascent-41mm-red-helix-o-1.jpg",
+    "movement": "Miyota 9015",
+    "case": "40.7mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "ASCENT-41-RED-HELIX"
+  },
+  {
+    "brand": "Erebus",
+    "model": "ASCENT 39 Aventurine",
+    "image": "https://erebuswatches.com/cdn/shop/files/ERASC11_Erebus_Ascent_Aventurine_O-Style.png",
+    "movement": "Miyota 9015",
+    "case": "39mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "ASCENT-39-AVENTURINE"
+  },
+  {
+    "brand": "Bulova",
+    "model": "Lunar Pilot Archive Series",
+    "image": "https://www.irisimo.si/files/product/54826/BULOVA-Lunar-Pilot-Archive-Series-98K112-3.gif",
+    "movement": "262kHz High Precision Quartz",
+    "case": "43.5mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "98K112"
+  }
+  ,
+  {
+    "brand": "Seiko",
+    "model": "SARV001 Automatic 4R36",
+    "image": "https://cdn11.bigcommerce.com/s-e31c8/images/stencil/1280x1280/products/1899/17148/SARV001__05467.1591308595.jpg",
+    "movement": "4R36 Automatic",
+    "case": "42mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SARV001"
+  },
+  {
+    "brand": "Seiko",
+    "model": "Selection JDM",
+    "image": "https://www.sakurawatches.com/image/cache/catalog/watches/3/444855209-seiko-selection-scve049-1000x1000.jpg",
+    "movement": "4R38 Automatic",
+    "case": "42mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "SCVE049"
+  },
+  {
+    "brand": "Tissot",
+    "model": "PRX Powermatic 80 Automatic Ice Blue Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-prx-powermatic-80-automatic-ice-blue-dial-mens-watch-t1374071135100-t1374071135100.jpg",
+    "movement": "Powermatic 80.111",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T137.407.11.351.00"
+  } ,
+  {
+    "brand": "Tissot",
+    "model": "PRX Powermatic 80 Automatic Blue Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-tclassic-automatic-blue-dial-mens-watch-t1374071104100-t1374071104100.jpg",
+    "movement": "Powermatic 80.111",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T137.407.11.041.00"
+  } ,
+  {
+    "brand": "Tissot",
+    "model": "PRX T-Classic Quartz Green Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-prx-tclassic-quartz-green-dial-mens-watch-t1374101109100.jpg",
+    "movement": "Quartz",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "T1374101109100"
+  } ,
+  {
+    "brand": "Tissot",
+    "model": "T-Complication Squelette Mechanical Skeleton Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-tcomplication-squelette-mens-watch-t0704051641100-t0704051641100.jpg",
+    "movement": "Hand Wind ETA Caliber 6497-1",
+    "case": "43mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "T0704051641100"
+  } ,
+  {
+    "brand": "Tissot",
+    "model": "Seastar 2000 Automatic Graded Blue Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/t/i/tissot-seastar-2000-automatic-graded-blue-dial-mens-watch-t1206073704100-t1206073704100_1.jpg",
+    "movement": "POWERMATIC 80.111",
+    "case": "46mm Stainless Steel",
+    "waterResistance": "600m",
+    "reference": "T120.607.37.041.00"
   }
 ]
