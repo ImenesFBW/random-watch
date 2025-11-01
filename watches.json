@@ -477,5 +477,86 @@
     "case": "46mm Stainless Steel",
     "waterResistance": "600m",
     "reference": "T120.607.37.041.00"
+  },
+  {
+    "brand": "echo/neutra",
+    "model": "AVERAU 39 Moon phase 'Big Moon'",
+    "image": "https://echoneutra.com/cdn/shop/files/Averau-BigMoon-Nero-VeganNero.png",
+    "movement": "Sellita SW280-1",
+    "case": "39mm Stainless Steel",
+    "waterResistance": "100m",
+    "reference": "AVERAU 39 Moon phase 'Big Moon'"
+  },
+  {
+    "brand": "Orient Star",
+    "model": "Mechanical Classic M45 Watch Metal Strap",
+    "image": "https://img.chrono24.com/images/uhren/42657101-y860q50oqtui9yjktmjly9v2-ExtraLarge.jpg",
+    "movement": "Automatic F7M42",
+    "case": "41mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "RK-BT0001S"
+  },
+  {
+    "brand": "Casio",
+    "model": "AE-1200WHD-1AVEF",
+    "image": "https://hudaura.com/media/mf_webp/jpg/media/catalog/product/cache/4d6a7cf999fedf6402938828587e4c37/a/e/ae-1200whd-1avef_hudaura.webp",
+    "movement": "Quartz",
+    "case": "42mm Resin",
+    "waterResistance": "100m",
+    "reference": "AE-1200WHD-1AVEF"
+  },
+  {
+    "brand": "Phoibos",
+    "model": "Vortex Anti-Magnetic",
+    "image": "https://cdn11.bigcommerce.com/s-i3bu0g146r/images/stencil/1280x1280/products/337/2778/PY042C_1__26780.1667181033.jpg",
+    "movement": "Sellita caliber SW200-1",
+    "case": "43.3 316L Stainless Steel",
+    "waterResistance": "200m",
+    "reference": "PY042C"
+  },
+  {
+    "brand": "Timex",
+    "model": "Marlin Quartz GMT",
+    "image": "https://timex.co.uk/cdn/shop/files/TW2Y47900.png",
+    "movement": "Quartz",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "TW2Y47900"
+  },
+  {
+    "brand": "Seiko",
+    "model": "PRESAGE Cocktail Automatic Open Heart",
+    "image": "https://www.seikoboutique.eu/fr/49262-superZoom/mens-automatic-watch-presage-cocktail-open-heart-green-dial.jpg",
+    "movement": "Auto Seiko 4R38",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "SSA441J1"
+  },
+  {
+    "brand": "Seiko",
+    "model": "PRESAGE Automatic Open Heart",
+    "image": "https://www.seikoboutique.eu/fr/27230-superZoom/mens-watch-automatic-movement-presage-60s-style-open-heart-cream-dial.jpg",
+    "movement": "4R39",
+    "case": "40mm Stainless Steel",
+    "waterResistance": "50m",
+    "reference": "SSA423J1"
+  },
+  {
+    "brand": "Zelos",
+    "model": "Aurora Moonphase Aventurine",
+    "image": "https://zeloswatches.com/cdn/shop/products/Stars2023-01-19ZelosAuroraFieldMoonphase_BlueChronograph1403_600x.jpg",
+    "movement": "Selitta SW288",
+    "case": "39mm Gr2 Ti with 1200HV Hardened Coating",
+    "waterResistance": "200m",
+    "reference": "aurora-moonphase-aventurien-launch-special"
+  },
+  {
+    "brand": "Orient",
+    "model": "Bambino Solar Black Dial",
+    "image": "https://cdn2.jomashop.com/media/catalog/product/o/r/orient-classic-solarpowered-black-dial-watch-rawk0004l10b_1.jpg",
+    "movement": "Orient Calibre VS213 solar movement",
+    "case": "38.4mm Stainless Steel",
+    "waterResistance": "30m",
+    "reference": "RA-WK0004L10B"
   }
 ]
